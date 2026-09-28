@@ -1,0 +1,44 @@
+# FiveM generated data
+cache/
+server-cache/
+server-cache-priv/
+crashes/
+logs/
+
+# txAdmin
+txAdmin/
+
+# Private configuration
+server_private.cfg
+secrets.cfg
+
+# OS/editor
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Git
+.git/
+
+# Local database dumps
+*.sql
+*.sqlite
+*.sqlite3
+server_private.cfg
+server.cfg.bkp
